@@ -8,7 +8,5 @@ dev5
 dev6
 dev7
 dev8
-dev1
-znh1
-znh2
+
 
